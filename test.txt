@@ -6,3 +6,5 @@ i
 ASDas
 :w
 and some more
+We will now add some more text
+To demonstrate the whole git process
